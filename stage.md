@@ -5,8 +5,6 @@
 
 ### 🔧 Tugas:
 
-* [x] Ambil 5 saham dari `yfinance`, format: `Date, Open, High, Low, Close, Volume, Ticker`
-* [x] Ambil 5 saham dari `Alpha Vantage`, format sama
 * [ ] Cek missing values & isi/pangkas
 * [ ] Normalize/scale harga & volume (MinMaxScaler, StandardScaler)
 
