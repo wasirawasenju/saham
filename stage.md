@@ -1,7 +1,7 @@
 
 ## 🧱 STAGE 1: DATA INFRA – Koleksi & Normalisasi Data
 
-**✅ Tujuan:** Lu punya 10 CSV saham, semua rapi, format standar.
+**✅ Tujuan:** Lu punya 11 CSV saham, semua rapi, format standar.
 
 ### 🔧 Tugas:
 
